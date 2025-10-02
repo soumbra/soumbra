@@ -1,8 +1,9 @@
 
-Acesse meu Gitfollio em: 
-<a href="https://gitfollio.vercel.app/soumbra">
+Acesse meu portfólio em: 
+<a href="https://gitfollio.vercel.app/soumbra"> 🔗
   https://gitfollio.vercel.app/soumbra
 </a>
+
 <!-- GitFolio:start
 {
   "gitfolio": "on",
@@ -16,12 +17,58 @@ Acesse meu Gitfollio em:
   "about": "Prazer, meu nome é Franciel Silveira, sou graduado em Sistemas de Informação e atualmente estou em busca de uma oportunidade de trabalho na área de tecnologia da informação para conseguir me desenvolver profissionalmente e conquistar novas habilidades.
 
 Tenho conhecimentos em C, C++, Java + Springboot, PostgreSQL, JavaScript e Gestão de Projetos. Sou comprometido aos projetos de que participo, visando a proatividade e estudo continuo para enfrentar os desafios que aparecerem no caminho.",
-  "showStars": "false",
-  "showFollowers": "false",
-  "followers": "16",
-  "following": "21",
+  "showStars": false,
+  "showFollowers": false,
+  "followers": 16,
+  "following": 21,
   "themeId": "minimal",
-  "tech": ["TypeScript","Node.js","Java","Springboot","Postgress","Mongo"],
-  "projects": [{"id":1060292163,"repoName":"nutri-plataform","url":"https://github.com/soumbra/nutri-plataform","stars":0,"description":"Plataforma nutricional","image":"","techs":["Next.js","Tailwind","ShadCN/UI","Node.js","Express","Prisma","Postgress","Docker"],"deploy":"https://nutri-plataformx.vercel.app/","highlighted":true},{"id":1038762713,"repoName":"rsl-system","url":"https://github.com/soumbra/rsl-system","stars":0,"description":"Sistema de Revisões Sistemáticas da Literatura","image":"","techs":["Vue","TypeScript","Java","Springboot","Docker"],"deploy":"","highlighted":false}]
+  "tech": [
+  "TypeScript",
+  "Node.js",
+  "Java",
+  "Springboot",
+  "Postgress",
+  "Mongo"
+],
+  "projects": [
+  {
+    "id": 1060292163,
+    "repoName": "nutri-plataform",
+    "url": "https://github.com/soumbra/nutri-plataform",
+    "stars": 0,
+    "description": "NutriPlatform: Sistema que conecta nutricionistas e clientes através de contratos inteligentes, planos alimentares personalizados e monitoramento de progresso. Stack moderna completa.",
+    "image": "https://github.com/soumbra/nutri-plataform/blob/main/docs/logo.png",
+    "techs": [
+      "Next.js",
+      "Tailwind",
+      "ShadCN/UI",
+      "Node.js",
+      "Express",
+      "Prisma",
+      "Postgress",
+      "Docker"
+    ],
+    "deploy": "https://nutri-plataformx.vercel.app/",
+    "highlighted": true
+  },
+  {
+    "id": 1038762713,
+    "repoName": "rsl-system",
+    "url": "https://github.com/soumbra/rsl-system",
+    "stars": 0,
+    "description": "RSL System - Plataforma web para Revisões Sistemáticas da Literatura em Engenharia de Software. Diferencial: visões isoladas entre revisores para evitar viés. Stack: Spring Boot + Vue 3.",
+    "image": "",
+    "techs": [
+      "Vue",
+      "TypeScript",
+      "Java",
+      "Springboot",
+      "Docker"
+    ],
+    "deploy": "",
+    "highlighted": false
+  }
+]
 }
 GitFolio:end -->
+  
