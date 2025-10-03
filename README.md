@@ -13,13 +13,13 @@ Acesse meu portfólio em:
   "avatar_url": "https://avatars.githubusercontent.com/u/84150892?v=4",
   "website": "",
   "githubUser": "soumbra",
-  "linkedinUser": "https://www.linkedin.com/in/franciel-silveira/",
-  "about": "Prazer, meu nome é Franciel Silveira, sou graduado em Sistemas de Informação e atualmente estou em busca de uma oportunidade de trabalho na área de tecnologia da informação para conseguir me desenvolver profissionalmente e conquistar novas habilidades. Tenho conhecimentos em C, C++, Java + Springboot, PostgreSQL, JavaScript e Gestão de Projetos. Sou comprometido aos projetos de que participo, visando a proatividade e estudo continuo para enfrentar os desafios que aparecerem no caminho.",
+  "linkedinUser": "",
+  "about": "Prazer, meu nome é Franciel Silveira, sou graduado em Sistemas de Informação e atualmente estou em busca de uma oportunidade de trabalho na área de tecnologia da informação para conseguir me desenvolver profissionalmente e conquistar novas habilidades;",
   "showStars": false,
   "showFollowers": false,
   "followers": 16,
   "following": 21,
-  "themeId": "modern",
+  "themeId": "professional",
   "tech": [
   "TypeScript",
   "Node.js",
@@ -46,7 +46,7 @@ Acesse meu portfólio em:
       "Postgress",
       "Docker"
     ],
-    "deploy": "https://nutri-plataformx.vercel.app/",
+    "deploy": "https://nutri-plataformx.vercel.app",
     "highlighted": true
   },
   {
@@ -69,3 +69,4 @@ Acesse meu portfólio em:
 ]
 }
 GitFolio:end -->
+  
