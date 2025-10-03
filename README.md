@@ -14,9 +14,7 @@ Acesse meu portfólio em:
   "website": "",
   "githubUser": "soumbra",
   "linkedinUser": "https://www.linkedin.com/in/franciel-silveira/",
-  "about": "Prazer, meu nome é Franciel Silveira, sou graduado em Sistemas de Informação e atualmente estou em busca de uma oportunidade de trabalho na área de tecnologia da informação para conseguir me desenvolver profissionalmente e conquistar novas habilidades.
-
-Tenho conhecimentos em C, C++, Java + Springboot, PostgreSQL, JavaScript e Gestão de Projetos. Sou comprometido aos projetos de que participo, visando a proatividade e estudo continuo para enfrentar os desafios que aparecerem no caminho.",
+  "about": "Prazer, meu nome é Franciel Silveira, sou graduado em Sistemas de Informação e atualmente estou em busca de uma oportunidade de trabalho na área de tecnologia da informação para conseguir me desenvolver profissionalmente e conquistar novas habilidades. Tenho conhecimentos em C, C++, Java + Springboot, PostgreSQL, JavaScript e Gestão de Projetos. Sou comprometido aos projetos de que participo, visando a proatividade e estudo continuo para enfrentar os desafios que aparecerem no caminho.",
   "showStars": false,
   "showFollowers": false,
   "followers": 16,
