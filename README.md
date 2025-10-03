@@ -13,7 +13,7 @@ Acesse meu portfólio em:
   "avatar_url": "https://avatars.githubusercontent.com/u/84150892?v=4",
   "website": "",
   "githubUser": "soumbra",
-  "linkedinUser": "",
+  "linkedinUser": "https://www.linkedin.com/in/franciel-silveira/",
   "about": "Prazer, meu nome é Franciel Silveira, sou graduado em Sistemas de Informação e atualmente estou em busca de uma oportunidade de trabalho na área de tecnologia da informação para conseguir me desenvolver profissionalmente e conquistar novas habilidades;",
   "showStars": false,
   "showFollowers": false,
