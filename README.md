@@ -4,7 +4,7 @@ Acesse meu portf√≥lio em:
   https://gitfollio.vercel.app/soumbra
 </a>
 
-<!-- GitFolio:start
+<!-- GitFolio:start -->
 {
   "gitfolio": "on",
   "name": "Franciel Silveira ",
@@ -70,5 +70,5 @@ Tenho conhecimentos em C, C++, Java + Springboot, PostgreSQL, JavaScript e Gest√
   }
 ]
 }
-GitFolio:end -->
+<!-- GitFolio:end -->
   
