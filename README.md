@@ -34,8 +34,8 @@ Acesse meu portfólio em:
     "repoName": "nutri-plataform",
     "url": "https://github.com/soumbra/nutri-plataform",
     "stars": 0,
-    "description": "NutriPlatform: Sistema que conecta nutricionistas e clientes através de contratos inteligentes, planos alimentares personalizados e monitoramento de progresso. Stack moderna completa.",
-    "image": "https://github.com/soumbra/nutri-plataform/blob/main/docs/logo.png",
+    "description": "Sistema que conecta nutricionistas e clientes através de contratos inteligentes, planos alimentares personalizados e monitoramento de progresso. Stack moderna completa.",
+    "image": "https://images.pexels.com/photos/8844379/pexels-photo-8844379.jpeg",
     "techs": [
       "Next.js",
       "Tailwind",
@@ -54,8 +54,8 @@ Acesse meu portfólio em:
     "repoName": "rsl-system",
     "url": "https://github.com/soumbra/rsl-system",
     "stars": 0,
-    "description": "RSL System - Plataforma web para Revisões Sistemáticas da Literatura em Engenharia de Software. Diferencial: visões isoladas entre revisores para evitar viés. Stack: Spring Boot + Vue 3.",
-    "image": "",
+    "description": "Plataforma web para Revisões Sistemáticas da Literatura em Engenharia de Software. Diferencial: visões isoladas entre revisores para evitar viés. Stack: Spring Boot + Vue 3.",
+    "image": "https://pix4free.org/assets/library/2021-07-05/originals/research.jpg",
     "techs": [
       "Vue",
       "TypeScript",
