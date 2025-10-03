@@ -25,8 +25,8 @@ Acesse meu portfólio em:
   "Node.js",
   "Java",
   "Springboot",
-  "Postgress",
-  "Mongo"
+  "PostgreSQL",
+  "MongoDB"
 ],
   "projects": [
   {
@@ -43,7 +43,7 @@ Acesse meu portfólio em:
       "Node.js",
       "Express",
       "Prisma",
-      "Postgress",
+      "PostgreSQL",
       "Docker"
     ],
     "deploy": "https://nutri-plataformx.vercel.app",
@@ -60,7 +60,7 @@ Acesse meu portfólio em:
       "Vue",
       "TypeScript",
       "Java",
-      "Springboot",
+      "PostgreSQL Springboot",
       "Docker"
     ],
     "deploy": "",
