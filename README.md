@@ -4,6 +4,11 @@ Acesse meu portfólio em:
   https://gitfollio.vercel.app/soumbra
 </a>
 
+Acesse meu portfólio acadêmico em: 
+<a href="https://soumbra.github.io/my-academic-website/"> 🔗
+  https://soumbra.github.io/my-academic-website/
+</a>
+
 <!-- GitFolio:start
 {
   "gitfolio": "on",
